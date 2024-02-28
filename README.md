@@ -7,7 +7,7 @@
 <h3 align="left">🔗lConnect with me:</h3>
 
 <p align="left">
-<a href="https://fb.com/stefan chapkanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stefan chapkanov" height="30" width="40" /></a>
+<a href="https://www.google.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="stefan chapkanov" height="30" width="40" /></a>
 <a href="https://instagram.com/stefan_chapkanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stefan_chapkanov" height="30" width="40" /></a>
 </p>
 
